@@ -1,0 +1,5 @@
+/target
+*.log
+.*-history
+sessions/
+auto-shit.toml
